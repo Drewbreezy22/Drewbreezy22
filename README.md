@@ -1,7 +1,7 @@
 Hi 👋 My name is Andrew Chavis
 ==============================
 
-Powerr Platform Developer and
+Powerr Platform Developer and Azure Cloud Engineer
 -----------------------------
 
 WGU's Information Technology Student focuses on Microsoft Power Platform automation and implementation along with administering Azure Cloud solutions.
