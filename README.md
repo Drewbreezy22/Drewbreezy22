@@ -4,7 +4,7 @@ Hi 👋 My name is Andrew Chavis
 Powerr Platform Developer and Azure Cloud Engineer
 -----------------------------
 
-WGU's  BS on Information Technology Student focuses on Web and Mobile application Development and provide security engineer to platforms.
+WGU's  BS on Information Technology Student focuses on Web and Mobile application Development and provide security engineering to platforms.
 
 *   🌍  I'm based in Houston, TX
 *   🖥️  See my portfolio at [andrewchavis.com](http://andrewchavis.simple.ink/)
